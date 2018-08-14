@@ -1,4 +1,4 @@
-def meal_choice(name = "meat", "vegan")
+def meal_choice(name = "meat", vegan)
   puts "meal_choice"
 end
 meal_choice("vegan")
